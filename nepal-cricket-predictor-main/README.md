@@ -34,4 +34,4 @@ uvicorn main:app --reload
 ```
 
 ---
-*Developed by [Aadarsh Pandit](https://aadarshapandit.com.np)*
+*Developed by Darshan Karna*
